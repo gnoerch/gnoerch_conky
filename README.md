@@ -3,7 +3,8 @@ My conky.conf for 1920 x 1080, X11, Cinnamon
 
 Looks like that:
 
-![conky_scr_2](https://github.com/gnoerch/gnoerch_conky/assets/159656914/e88b4f50-6668-42f4-b5e2-a28df0bd71f9)
+![conky_04](https://github.com/gnoerch/gnoerch_conky/assets/159656914/6f72f784-a37c-4c82-8946-e5b77454860d)
+
 
 Needs grep, awk, curl, wget and sensors at least.  Conky Manager 2 may be helpful.
 
